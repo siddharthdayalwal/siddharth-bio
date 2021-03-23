@@ -6,7 +6,7 @@
 
 # Siddharth's Bio
 
-Being Passionate for technology and having a desire to learn and explore more makes Siddharth what he is. He is an AngelHack Student Ambassador, Microsoft Learn Student Ambassador, Former Intern at Progate, Google Crowdsource Influencer, Hackathon Mentor and Lead Organizer for Hack This Fall Hackathon.
+Being Passionate for technology and having a desire to learn and explore more makes Siddharth what he is. He is Community Development Intern at SAWO Labs. an AngelHack Student Ambassador, Microsoft Learn Student Ambassador, Former Intern at Progate, Google Crowdsource Influencer, Hackathon Mentor and Lead Organizer for Hack This Fall Hackathon.
 
 His passion for Hackathon is immense and he has been part of 50+ Hackathons with different roles. He is a community guy and a public speaker. Additionally travelling, music and food is what he likes the most.
 
