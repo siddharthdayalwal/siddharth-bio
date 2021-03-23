@@ -16,7 +16,7 @@ His passion for Hackathon is immense and he has been part of 50+ Hackathons with
 - Instagram: <a href="https://www.instagram.com/siddharth_hacks/">@siddharth_hacks</a>
 - Linkedin: <a href="https://www.linkedin.com/in/siddharth-dayalwal/">in/siddharth-dayalwal/</a>
 - Mail id: <a href="mailto:siddharthdayalwal2000@gmail.com">siddharthdayalwal2000@gmail.com</a>
-- Website: <a href="https://siddharth-hacks.live/">siddharth-hacks.live</a> [Hackathon Journey]
+- Website: <a href="https://siddharthdayalwal.hashnode.dev/hackathon">Click here</a> [Hackathon Journey]
 
 # Siddharth's Headshot
 
