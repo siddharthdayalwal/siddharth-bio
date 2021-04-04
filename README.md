@@ -1,6 +1,6 @@
 # Siddharth Dayalwal
 
-![Siddharth Dayalwal](https://raw.githubusercontent.com/siddharthdayalwal/siddharthdayalwal/master/Images/sid-cover-img.jpeg)
+![Siddharth Dayalwal](https://raw.githubusercontent.com/siddharthdayalwal/siddharthdayalwal/master/Images/Twitter%20Header.png)
 
 - - -
 
