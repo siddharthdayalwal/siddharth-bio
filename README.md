@@ -1,14 +1,12 @@
 # Siddharth Dayalwal
 
-![Siddharth Dayalwal](https://raw.githubusercontent.com/siddharthdayalwal/siddharthdayalwal/master/Images/Twitter%20Header.png)
+![Siddharth Dayalwal](https://user-images.githubusercontent.com/41017419/158606974-e2928f17-3966-459a-a026-6741ffaeede4.png)
 
 - - -
 
 # Siddharth's Bio
 
-Being Passionate for technology and having a desire to learn and explore more makes Siddharth what he is. He is Community Development Intern at SAWO Labs, Digital Ocean Navigator, AngelHack Student Ambassador, Microsoft Learn Student Ambassador, Former Intern at Progate, Google Crowdsource Influencer, Hackathon Mentor and Lead Organizer for Hack This Fall Hackathon.
-
-His passion for Hackathon is immense and he has been part of 50+ Hackathons with different roles. He is a community guy and a public speaker. Additionally travelling, music and food is what he likes the most.
+Siddharth is a Developer Relations Engineer at Storyblok. He loves to talk about communities & hackathons and has been actively involved in the space for 3+ years now! He is also a GitHub Field Expert, Digital Ocean Navigator, and founding organizer for Hack This Fall hackathon.
 
 # Siddharth's Socials
 
@@ -16,7 +14,6 @@ His passion for Hackathon is immense and he has been part of 50+ Hackathons with
 - Instagram: <a href="https://www.instagram.com/siddharth_hacks/">@siddharth_hacks</a>
 - Linkedin: <a href="https://www.linkedin.com/in/siddharthdayalwal/">in/siddharthdayalwal/</a>
 - Mail id: <a href="mailto:siddharthdayalwal2000@gmail.com">siddharthdayalwal2000@gmail.com</a>
-- Website: <a href="https://siddharth-hacks.live/hackathon">Click here</a> [Hackathon Journey]
 
 # Siddharth's Headshot
 
