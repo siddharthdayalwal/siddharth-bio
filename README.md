@@ -1,12 +1,16 @@
 # Siddharth Dayalwal
 
-![Siddharth Dayalwal](https://user-images.githubusercontent.com/41017419/158606974-e2928f17-3966-459a-a026-6741ffaeede4.png)
+![Siddharth Dayalwal](https://user-images.githubusercontent.com/41017419/208169163-3ad9c690-ebab-4d6d-8655-f4f3c3d8aa87.png)
 
 - - -
 
 # Siddharth's Bio
 
-Siddharth is a Developer Relations Engineer at Storyblok. He loves to talk about communities & hackathons and has been actively involved in the space for 3+ years now! He is also a GitHub Field Expert, Digital Ocean Navigator, and founding organizer for Hack This Fall hackathon.
+Siddharth is a Developer Community Specialist at Storyblok. He loves to talk about communities & hackathons and has been actively involved in the space for 4+ years now! 
+
+He is also the founding organizer of Hack This Fall Hacker Community, Major League Hacking APAC Hackathon Coach, GitHub Field Expert, and Digital Ocean Navigator!
+
+He is a community guy and a public speaker. Additionally, he is fond of traveling, music, and food.
 
 # Siddharth's Socials
 
