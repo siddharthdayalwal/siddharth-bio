@@ -8,7 +8,7 @@
 
 Siddharth is a Developer Community Specialist at Storyblok. He loves to talk about communities & hackathons and has been actively involved in the space for 4+ years now! 
 
-He is also the founding organizer of Hack This Fall Hacker Community, Major League Hacking APAC Hackathon Coach, GitHub Field Expert, and Digital Ocean Navigator!
+He is also the founding organizer of Hack This Fall Hacker Community, Major League Hacking APAC Hackathon Coach, and GitHub Field Expert from India region!
 
 He is a community guy and a public speaker. Additionally, he is fond of traveling, music, and food.
 
