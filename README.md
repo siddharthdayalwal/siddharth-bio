@@ -6,7 +6,7 @@
 
 # Siddharth's Bio
 
-Siddharth is currently working as a Developer Community Specialist at Storyblok. He loves to talk about communities & hackathons and has been actively involved in the space for 4+ years now! 
+Siddharth is currently working as a Developer Community Specialist at Storyblok. He loves to talk about communities & hackathons and has been actively involved in the space for 5+ years now! 
 
 Apart from his full-time job, he is building Hack This Fall, which is one of the most thriving hacker communities in India. He has been a Major League Hacking APAC Hackathon Coach, empowering hackathon organizers to run their events and hackers to have their best experience. He has been a GitHub Campus Expert and is now a GitHub Field Expert for the India region.
 
