@@ -6,11 +6,11 @@
 
 # Siddharth's Bio
 
-Siddharth is currently working as a Developer Community Specialist at Storyblok. He loves to talk about communities & hackathons and has been actively involved in the space for 5+ years now! 
+Siddharth Dayalwal is a Developer Community Specialist at Storyblok, where he leads developer programs and manages a global community within the headless CMS space. With over five years of experience, Siddharth has empowered countless developers to innovate, hackathons to thrive, and communities to grow.
 
-Apart from his full-time job, he is building Hack This Fall, which is one of the most thriving hacker communities in India. He has been a Major League Hacking APAC Hackathon Coach, empowering hackathon organizers to run their events and hackers to have their best experience. He has been a GitHub Campus Expert and is now a GitHub Field Expert for the India region.
+Outside his full-time role, Siddharth spends his time building Hack This Fall, one of India’s most vibrant hacker communities. He has served as a Major League Hacking APAC Hackathon Coach, guiding organizers and participants to create exceptional hackathon experiences, and as a GitHub Field Expert, supporting developer initiatives across India.
 
-He is an explorer who loves to travel, an optimistic person, and an orator. Additionally, he is fond of nature, music, and food.
+An explorer at heart and an eternal optimist, Siddharth loves to travel, connect with nature, indulge in good food, and immerse himself in music. He is passionate about meaningful conversations and sharing knowledge for communities and hackathons.
 
 # Siddharth's Socials
 
